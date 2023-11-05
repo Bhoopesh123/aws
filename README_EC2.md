@@ -1,6 +1,6 @@
 # EC2 Creation on AWS Cloud  
 
-Kindly follow the below steps to create EC2 Instance(Windows and Linux) Creation on AWS Cloud
+Kindly follow the below steps to create EC2 Instance(Windows and Linux) creation on AWS Cloud
 
 # 1. Go to the below link for creating a new EC2 Instance
 
