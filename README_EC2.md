@@ -6,8 +6,8 @@ Kindly follow the below steps to create EC2 Instance(Windows and Linux) creation
 
     https://ap-south-1.console.aws.amazon.com/ec2/home?region=ap-south-1#Instances:instanceState=running
 
-Click on "Launch Instances"
-Select the instance Type(Windows/Linux ..etc)
-Create a new Key Pair for enhanced security
-Pls have all the default settings and then create Launch Instance.
+Click on "Launch Instances"  
+Select the instance Type(Windows/Linux ..etc)  
+Create a new Key Pair for enhanced security  
+Pls have all the default settings and then create Launch Instance.  
 
