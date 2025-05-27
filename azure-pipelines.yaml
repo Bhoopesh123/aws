@@ -12,4 +12,6 @@ steps:
     git ls-remote https://github.com/Bhoopesh123/Grafana
 
     echo "Private Repo in Git"
-    git ls-remote https://github.com/Bhoopesh123/awstest
+    # git ls-remote https://github.com/Bhoopesh123/awstest
+    git clone https://bhoopesh123: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@github.com/Bhoopesh123/awstest
+
