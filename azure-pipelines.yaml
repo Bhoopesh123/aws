@@ -8,5 +8,8 @@ steps:
 - script: echo "Hello World"
   displayName: "Run a one line script"
 - script: |
-    echo "Testing Repo Access"
+    echo "Testing Public Repo Access"
     git ls-remote https://github.com/Bhoopesh123/Grafana
+
+    echo "Private Repo in Git"
+    git ls-remote https://github.com/Bhoopesh123/awstest
