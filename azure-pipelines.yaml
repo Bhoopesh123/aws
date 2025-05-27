@@ -3,6 +3,10 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
+  
 steps:
 - script: echo "Hello World"
   displayName: "Run a one line script"
+- script: |
+    echo "Testing Repo Access"
+    git ls-remote https://github.com/Bhoopesh123/Grafana
