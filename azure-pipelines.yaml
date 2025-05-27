@@ -13,6 +13,6 @@ steps:
 
     echo "Private Repo in Git"
     # git ls-remote https://github.com/Bhoopesh123/awstest
-    git ls-remote git@github.com:username/Bhoopesh123/awstest 
+    git ls-remote git@github.com:Bhoopesh123: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/Bhoopesh123/awstest 
     # git clone https://Bhoopesh123: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@github.com/Bhoopesh123/awstest
 
